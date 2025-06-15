@@ -1,13 +1,7 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gary20011207&show_icons=true&theme=jolly" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gary20011207&layout=compact&langs_count=6&theme=jolly" width="400"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gary20011207&show_icons=true&theme=jolly" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gary20011207&layout=compact&langs_count=6&theme=jolly" width="400" />
+</div>
 
 <!--
 **Gary20011207/Gary20011207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
