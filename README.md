@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gary20011207&show_icons=true&theme=material-palenight" width="600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gary20011207&layout=compact&langs_count=6&theme=material-palenight" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gary20011207&show_icons=true&theme=material-palenight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gary20011207&layout=compact&langs_count=6&theme=material-palenight" width="300" />
 </div>
 
 <!--
