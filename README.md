@@ -1,7 +1,13 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gary20011207&show_icons=true&theme=jolly" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gary20011207&layout=compact&theme=jolly" width="420"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gary20011207&show_icons=true&theme=jolly" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gary20011207&layout=compact&theme=jolly" width="420"/>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Gary20011207/Gary20011207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
